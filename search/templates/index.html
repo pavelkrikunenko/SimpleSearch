@@ -18,11 +18,11 @@
     </div>
     <script type="text/javascript">
 
-        $(document).ready(
+        
             $('form').submit(function(){
                 $(#posts).load("/api/get_posts", $('form').serialize());
                 });
-            );
+            
     </script>
 </body>
 </html>
