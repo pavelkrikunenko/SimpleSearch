@@ -1,3 +1,5 @@
+### Instruction to run app
+
 ### 1: 
   - git clone http://github.com/pavelkrikunenko/SimpleSearch.git
 ### 2: 
